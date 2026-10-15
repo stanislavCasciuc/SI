@@ -1,0 +1,3 @@
+fastmcp>=4
+openai>=3
+python-dotenv
